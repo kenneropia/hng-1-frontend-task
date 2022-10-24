@@ -6,7 +6,7 @@ function ProfileHeader() {
             <span className='profile-img'>
                 <img src="../../public/me.jpg" alt="" srcset="" />
             </span>
-            <span>
+            <span className='profile-name'>
                 Adetunmbi Kehinde
             </span>
         </div>

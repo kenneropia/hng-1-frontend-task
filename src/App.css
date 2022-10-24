@@ -23,6 +23,11 @@
     width: auto;
 }
 
+.profile-name {
+    font-weight: 700;
+    size: 20px;
+}
+
 .profile-img {
     width: 88px;
     height: 88px;
