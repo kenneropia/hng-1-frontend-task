@@ -6,7 +6,12 @@ const App = () => {
   const [count, setCount] = useState(0);
 
   return (
-    <Profile />
+
+    <div className='app'>
+        <Profile />
+    </div>
+
+  
   );
 };
 

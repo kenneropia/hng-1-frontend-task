@@ -4,7 +4,7 @@ import ProfileLinks from "./ProfileLinks"
 
 const Profile = () => {
     return (
-        <div>
+        <div className="profile">
             <ProfileHeader />
             <ProfileLinks />
             <ProfileFooter />
